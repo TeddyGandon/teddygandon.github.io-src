@@ -57,7 +57,7 @@ module.exports = {
     "hard": {
       "languages": [
         {
-          "name": "PHP 5/7",
+          "name": "PHP 5/7/8",
           "level": 3
         },
         {
@@ -173,11 +173,11 @@ module.exports = {
           "level": 3
         },
         {
-          "name": "Symfony",
-          "level": 2
+          "name": "VueJS",
+          "level": 3
         },
         {
-          "name": "VueJS",
+          "name": "Symfony",
           "level": 2
         },
         {

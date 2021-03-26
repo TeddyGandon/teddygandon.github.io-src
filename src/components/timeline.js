@@ -46,6 +46,16 @@ export default function Layout({ name, level }) {
             <p className="text-sm font-medium leading-snug tracking-wide text-white text-opacity-100">Senior backend developer.</p>
           </div>
         </div>
+        <div className="mb-8 flex justify-between items-center w-full right-timeline">
+          <div className="order-1 w-5/12"></div>
+          <div className="z-20 flex items-center order-1 bg-gray-800 shadow-xl w-12 h-8 rounded-full">
+            <h1 className="mx-auto font-semibold text-lg text-white">2021</h1>
+          </div>
+          <div className="order-1 bg-black rounded-lg shadow-xl w-5/12 px-6 py-4">
+            <h3 className="mb-3 font-bold text-white text-xl">Jellyfish France</h3>
+            <p className="text-sm leading-snug tracking-wide text-white">Lead backend developer.</p>
+          </div>
+        </div>
       </div>
     </div>
   )

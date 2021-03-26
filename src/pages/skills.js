@@ -4,7 +4,7 @@ import Skill from '../components/skill'
 import data from '../data'
 
 export default function Home() {
-  return <Layout className="keyboard">
+  return <Layout className="coffee">
     <div className="p-12">
       <h1 className="font-bold text-white text-5xl text-teal-400">Skills</h1>
       <p className="text-white my-4">
