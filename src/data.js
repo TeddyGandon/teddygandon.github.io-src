@@ -78,10 +78,6 @@ module.exports = {
         },
         {
           "name": "Python",
-          "level": 2
-        },
-        {
-          "name": "Go",
           "level": 1
         }
       ],
@@ -119,16 +115,12 @@ module.exports = {
           "level": 3
         },
         {
-          "name": "Jira",
-          "level": 3
-        },
-        {
-          "name": "Confluence",
+          "name": "Atlassian Suite",
           "level": 3
         },
         {
           "name": "Google Cloud Platform",
-          "level": 2
+          "level": 3
         },
         {
           "name": "PostgreSQL",
@@ -177,15 +169,15 @@ module.exports = {
           "level": 3
         },
         {
-          "name": "Symfony",
+          "name": "TailwindCSS",
           "level": 2
         },
         {
-          "name": "GatsbyJS",
+          "name": "Symfony",
           "level": 1
         },
         {
-          "name": "TailwindCSS",
+          "name": "GatsbyJS",
           "level": 1
         }
       ]
