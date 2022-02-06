@@ -52,6 +52,23 @@ module.exports = {
       ],
       "link": "https://github.com/teddygandon/teddygandon.github.io-src"
     },
+    {
+      "image": "meat-peasant-crunchy-cold.png",
+      "name": "The Peasant Meat Factory",
+      "description": "That prototype comes from the challenge of the week from the @LostRelicGames community with the theme \"Meat Peasant Crunchy Cold\". Made in 48 hours.",
+      "skills": [
+        {
+          "name": "JavaScript",
+        },
+        {
+          "name": "VueJS",
+        },
+        {
+          "name": "VueX",
+        },
+      ],
+      "link": "https://github.com/teddygandon/meat-peasant-crunchy-cold"
+    },
   ],
   "skills": {
     "hard": {
@@ -169,8 +186,12 @@ module.exports = {
           "level": 3
         },
         {
+          "name": "VueX",
+          "level": 3
+        },
+        {
           "name": "TailwindCSS",
-          "level": 2
+          "level": 3
         },
         {
           "name": "Symfony",
