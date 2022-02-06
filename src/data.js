@@ -67,7 +67,7 @@ module.exports = {
           "name": "VueX",
         },
       ],
-      "link": "https://github.com/teddygandon/meat-peasant-crunchy-cold"
+      "link": "https://teddygandon.github.io/meat-peasant-crunchy-cold"
     },
   ],
   "skills": {
